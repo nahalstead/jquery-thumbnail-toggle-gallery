@@ -1,6 +1,3 @@
-    window.onload=function(){
-      
-      
 // initiate slider
 var main = function() {
   $('.next').add('.slider img').click(function() {
